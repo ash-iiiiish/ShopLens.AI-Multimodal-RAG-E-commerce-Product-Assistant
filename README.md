@@ -9,3 +9,8 @@ A modern, web-based AI assistant where users can : Upload a product image, Ask q
 
 ## 🤝 Contributing
 Contributions are welcome! Fork this repository and submit a pull request.
+
+
+gjie
+gogrt
+gjopr

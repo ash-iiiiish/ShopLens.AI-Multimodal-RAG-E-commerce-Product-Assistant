@@ -3,7 +3,7 @@ Upload any product image → get specs, find alternatives, compare prices. All i
 
 **Stack:** ChatGroq (LLaMA 3.3 70B) · Llama 4 Scout (Vision) · HuggingFace Embeddings · FAISS · LangChain · Streamlit
 
-[Demo](images\image.png)
+
 
 ## Project Structure
 

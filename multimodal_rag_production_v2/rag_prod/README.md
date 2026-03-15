@@ -1,6 +1,9 @@
-# 🛍️ Multimodal RAG E-Commerce Assistant
+# 🛍️ Multimodal RAG E-Commerce Assistant : <br>
+Upload any product image → get specs, find alternatives, compare prices. All in natural language.
 
 **Stack:** ChatGroq (LLaMA 3.3 70B) · Llama 4 Scout (Vision) · HuggingFace Embeddings · FAISS · LangChain · Streamlit
+
+[Demo](images\image.png)
 
 ## Project Structure
 

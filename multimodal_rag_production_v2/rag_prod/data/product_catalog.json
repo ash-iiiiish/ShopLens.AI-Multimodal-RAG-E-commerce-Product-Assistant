@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P001",
+    "name": "Nike Air Max 270 White Sneakers",
+    "category": "Footwear",
+    "brand": "Nike",
+    "price": 150,
+    "specs": "Lightweight mesh upper, Air Max heel unit, rubber outsole, sizes 6-13",
+    "description": "White athletic running sneakers with large air cushion heel. Ideal for daily wear and light running.",
+    "url": "https://nike.com/p001"
+  },
+  {
+    "id": "P002",
+    "name": "Adidas Ultraboost 22 Running Shoes",
+    "category": "Footwear",
+    "brand": "Adidas",
+    "price": 180,
+    "specs": "Primeknit upper, Boost midsole, Continental rubber outsole, OrthoLite insole",
+    "description": "Black and white performance running shoes with energy-return Boost foam. Best for marathon training.",
+    "url": "https://adidas.com/p002"
+  },
+  {
+    "id": "P003",
+    "name": "Apple MacBook Pro 14-inch M3",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 1999,
+    "specs": "Apple M3 chip, 16GB RAM, 512GB SSD, 14.2-inch Liquid Retina XDR display, 18hr battery",
+    "description": "Space gray professional laptop with aluminum unibody. Ideal for developers and creative professionals.",
+    "url": "https://apple.com/p003"
+  },
+  {
+    "id": "P004",
+    "name": "Dell XPS 15 Laptop",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 1799,
+    "specs": "Intel Core i7-13700H, 16GB DDR5, 512GB NVMe SSD, 15.6-inch OLED 3.5K display, NVIDIA RTX 4060",
+    "description": "Silver premium laptop with slim bezels, ideal for creative professionals and power users.",
+    "url": "https://dell.com/p004"
+  },
+  {
+    "id": "P005",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Audio",
+    "brand": "Sony",
+    "price": 349,
+    "specs": "Industry-leading ANC, 30hr battery, LDAC, multipoint connection, speak-to-chat",
+    "description": "Black over-ear wireless noise-canceling headphones, best for travel and focus work.",
+    "url": "https://sony.com/p005"
+  },
+  {
+    "id": "P006",
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 1299,
+    "specs": "Snapdragon 8 Gen 3, 200MP camera, 12GB RAM, 256GB, S-Pen, 5000mAh battery",
+    "description": "Titanium black flagship Android phone with built-in S-Pen stylus and advanced AI photo features.",
+    "url": "https://samsung.com/p006"
+  },
+  {
+    "id": "P007",
+    "name": "iPhone 15 Pro Max",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 1199,
+    "specs": "A17 Pro chip, 48MP ProRAW camera, titanium frame, 6.7-inch Super Retina XDR, USB-C",
+    "description": "Natural titanium premium Apple smartphone with ProRAW photography and action button.",
+    "url": "https://apple.com/p007"
+  },
+  {
+    "id": "P008",
+    "name": "Levi's 511 Slim Fit Jeans",
+    "category": "Clothing",
+    "brand": "Levi's",
+    "price": 70,
+    "specs": "99% cotton 1% elastane, slim fit, mid-rise, available in dark indigo and black",
+    "description": "Classic slim-fit dark blue denim jeans for casual and semi-formal wear.",
+    "url": "https://levis.com/p008"
+  }
+]

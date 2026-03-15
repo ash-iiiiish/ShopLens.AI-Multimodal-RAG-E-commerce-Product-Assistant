@@ -33,6 +33,10 @@ A user uploads a product photo — a pair of sneakers, a laptop, headphones — 
 
 ---
 
+[Demo](images\image.png)
+
+---
+
 ## 🏗️ Architecture
 
 ```

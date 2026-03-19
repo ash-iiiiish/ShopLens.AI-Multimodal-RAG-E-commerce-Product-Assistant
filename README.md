@@ -317,9 +317,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
   <sub>Built with ❤️ for GenAI internship portfolio</sub>
 </div>
 
-
-
-defifewiwf
 fekfkew
 
 

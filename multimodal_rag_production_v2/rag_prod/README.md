@@ -47,3 +47,4 @@ Image upload
     → model.py        (ChatGroq → final answer)
     → app.py          (Streamlit → display)
 ```
+

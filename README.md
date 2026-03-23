@@ -312,9 +312,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-
-<div align="center">
-  <sub>Built with ❤️ for GenAI internship portfolio</sub>
-</div>
-
-

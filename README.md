@@ -2,7 +2,7 @@
 
 # 🔍 ShopLens AI
 ### Multimodal RAG for E-Commerce Product Assistant
-.
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.0-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)](https://langchain.com)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-F55036?style=flat-square)](https://groq.com)

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 ShopLens AIc
+# 🔍 ShopLens AI
 ### Multimodal RAG for E-Commerce Product Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)

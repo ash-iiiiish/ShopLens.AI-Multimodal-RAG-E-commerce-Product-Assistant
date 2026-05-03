@@ -1,5 +1,5 @@
 <div align="center">
-h
+
 # 🔍 ShopLens AI
 ### Multimodal RAG for E-Commerce Product Assistant
 

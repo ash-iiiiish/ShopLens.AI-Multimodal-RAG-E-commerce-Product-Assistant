@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # 🔍 ShopLens AI
@@ -118,8 +116,8 @@ rag_prod/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant.git
-cd ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant/rag_prod
+git clone https://github.com/yourusername/shoplens-ai.git
+cd shoplens-ai/rag_prod
 ```
 
 ### 2. Create a virtual environment
@@ -313,3 +311,7 @@ Contributions are welcome! Fork this repository and submit a pull request.
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.............
 
 ---
+
+
+
+
